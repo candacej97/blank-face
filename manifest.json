@@ -1,0 +1,17 @@
+{
+    "manifest_version": 2,
+    "name": "Blank Face",
+    "version": "1.0",
+    "description": "Blank Face uses an image's container to determine the new image or background color for the image's container.",
+    "icons": {},
+    "content_scripts": [
+        {
+            "matches": [
+                "*://*/*"
+            ],
+            "js": [
+                "script.js"
+            ]
+        }
+    ]
+}
