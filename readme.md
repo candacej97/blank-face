@@ -2,11 +2,31 @@
 
 Blank Face is a web browser extension that searches a web page's content and gets rid of any images.
 
-## How to Install
+## How to Install - User
 
-## How to Use
+_Coming soon_
 
-Once installed, click the extension icon to get rid of the images on the current page.
+### How to Use
+
+_Coming soon_
+
+## How to Install - Dev
+
+Did you read the [contribution guidelines](##Contributing) yet???
+
+```bash
+git clone <git repo here>
+```
+
+### How to Run & Debug
+
+Once installed locally:
+
+1. Open your browser of choice
+2. Go into the browser's extension developer mode
+3. Load the extension via uploading/unpacking the folder
+4. Open a new tab (that has images on it)
+5. Click the extension icon to get rid of the images on the current page
 
 ## Future Implementation
 
@@ -21,3 +41,7 @@ This list will be compiled based on the ideas that are feasible and fit in the s
 - [ ] Blank out video as well
 - [ ] Automatically blank out images based on user options
 - [ ] Work on a specific site
+
+## Contributing
+
+_Coming soon_
