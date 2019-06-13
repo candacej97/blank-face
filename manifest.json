@@ -3,7 +3,10 @@
     "name": "Blank Face",
     "version": "1.0",
     "description": "Blank Face uses an image's container to determine the new image or background color for the image's container.",
-    "icons": {},
+    "icons": [{
+        48: "icon – 1.png",
+        96: "icon – 2.png"
+    }],
     "content_scripts": [
         {
             "matches": [
