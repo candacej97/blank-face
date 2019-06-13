@@ -32,10 +32,6 @@ Once installed locally:
 
 This list will be compiled based on the ideas that are feasible and fit in the scope of this simple web extension.
 
-### To Do
-
-- [ ] Extension icon
-
 ### User Options
 
 - [ ] Blank out video as well
