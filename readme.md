@@ -15,7 +15,7 @@ _Coming soon_
 Did you read the [contribution guidelines](##Contributing) yet???
 
 ```bash
-git clone <git repo here>
+git clone https://github.com/candacej97/blank-face.git
 ```
 
 ### How to Run & Debug
